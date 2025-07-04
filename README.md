@@ -42,11 +42,15 @@ Mais de **10 casos reais com prisão de alvos** graças ao trabalho de investiga
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uxie&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uxieltc&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=uxie&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uxieltc&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxieltc&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
